@@ -1,0 +1,17 @@
+Title: Polymer
+
+----
+Date: 11/14/2014
+----
+
+Text: ### Polymer and Web Components Part 1.
+Today I went to a presentation of Google's Polymer project, an early implementation of the upcoming web components standard.
+(link: http://www.w3.org/standards/techs/components#w3c_all text: WC3 Web components)
+
+Rob Dodson, a developer advocate for the Polymer project, gave a great talk and answered a range of questions concerning web components and accessibility, using npm modules, vulcanize (an essential build step) and in general got me and quite a few of the attendees excited about Polymer. 
+
+I definitely think web  components are the future and further carry web development on a path towards more modular development, steps made possible through solid web standards. Google is wholly embracing this because the writing on the wall in addition to getting people used to a syntax and style that Google itself is pioneering. 
+
+The web components standards leaves much open ended and Polymer is Google's attempt to implement  it in a standards compliant way ( inasmuch as the standards have something to say on the matter) as well as the Google way. In the long run I think this is a win for Google in that large scale adoption of Google components will no doubt bolster advertising, SEO, Chrome adoption, and basically the Google ecosystem as a whole.  
+
+More to come.

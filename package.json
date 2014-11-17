@@ -1,0 +1,24 @@
+{
+  "name": "wordpress-starter-theme",
+  "version": "1.0.0",
+  "dependencies": {
+    "jeet": "^6.1.2",
+    "nib": "^1.0.4",
+    "rupture": "^0.4.0",
+    "stylus": "^0.49.2"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cache": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-jshint": "latest",
+    "gulp-load-plugins": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "gulp-stylus": "latest",
+    "gulp-uglify": "latest"
+  }
+}

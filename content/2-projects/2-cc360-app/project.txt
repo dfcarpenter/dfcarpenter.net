@@ -1,0 +1,27 @@
+Title: CC360 App
+
+----
+
+Year: 2014
+
+----
+
+Tags: 
+
+----
+
+Text: ## Overview
+  The Career and College 360 app is the first part of a much larger framework. The first module we created, and shown here, is for career guidance. It's designed around a unique presentation and manipulation of their own proprietary data and government data, resulting in a stimulating, challenging and yet fun experience for students to find the careers they want.
+
+## What we did
+   Their curriculum was first created in Excel and worked well for the small groups they were testing with, but they quickly worked the quirks out with its success they wanted an application to more easily manage and distribute their product. Over half a dozen sessions we devised a workflow following the original, but adapted to follow good UX practices and web conventions for usability. 
+
+  We chose (link: http://laravel.com text: Laravel) for the application framework because it followed good conventions, was robust, and it would be easy for any developers we brought on to jump in quickly. Most of the challenges were with transforming the data, but in the end the product turned out well several other modules are in the works. Stay tuned.
+
+----
+
+Clienturl: http://app.careerandcollege360.com
+
+----
+
+Stack: 

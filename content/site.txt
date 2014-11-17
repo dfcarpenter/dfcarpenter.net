@@ -1,0 +1,25 @@
+Title: DFC
+
+----
+
+Author: Daniel Carpenter
+
+----
+
+Description: Awesome site for Daniel Carpenter.
+
+----
+
+Keywords: developer, Laravel, Javascript
+
+----
+
+facebook: http://www.facebook.com/daniel.carpenter.52
+
+----
+
+twitter: http://www.twitter.com/dfcarpenter
+
+----
+
+Copyright: © 2013-(date: Year) (link: http://dfcarpenter.net text: Daniel Carpenter)

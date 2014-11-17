@@ -1,0 +1,9 @@
+Title: Home
+
+----
+
+Text: Hi, i'm Dan Carpenter and I love crafting things for the web. I currently work as a full stack developer at Maximum Labs but i'm also available for side projects. Check out some of my latest projects below and get in touch.
+
+----
+
+Tagline: Understand. Question. Create.

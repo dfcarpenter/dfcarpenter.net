@@ -1,0 +1,21 @@
+Title: Anadyr Siberians
+
+----
+
+Year: 2014
+
+----
+
+Tags: 
+
+----
+
+Text: Created a new site for dog musher Lisbet Norris. She ran the Iditarod for the first time last year and wanted an updated site for her fans, sponsors, and to show more pictures of her awesome dogs. As a fellow Alaskan I jumped at the chance.
+
+----
+
+Clienturl: 
+
+----
+
+Technologies: Wordpress, Sass
