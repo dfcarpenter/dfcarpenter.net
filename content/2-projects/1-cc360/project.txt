@@ -13,13 +13,13 @@ Tags:
 Text: ## Overview
 The Career and College site was created for a new education startup, Career and College 360. 
 
-## What we did
- CC360, after some early success with beta tests and new clients, was in the process of  expanding their program with a diverse set of different clients, ranging from universities to non-profits and families. This wide field of customer types made it difficult to design without copy and other content available. As such, the client and I worked together to get it centered around their key current clientele, families,  while not constraining it so much that content could not be used for the next stage of the site.
+## What I did
+ CC360, after some early success with beta tests and new clients, was in the process of  expanding their program to a diverse range of clients, ranging from universities to non-profits and families. Starting from scratch, I worked closely with members of the founding team to develop content for the site. The range of customer types and the short timeframe made it difficult to get the message and design just right, but after several quick iterations I created a design which the client liked and was in line with their message.
  
-Initial designs were done in Photoshop and Bohemian Coding's Sketch, resulting after several iterations on a minimal theme and layout.
+Initial designs were done in Photoshop and Bohemian Coding's Sketch, resulting after several iterations in a clean, minimal theme and layout.
 
 ## The Future
-With lots of growth for CC360 I am starting work on an almost totally revamped site using Craft CMS. Stay tuned.
+With some strong growth for CC360 I was tasked with starting work on an a totally revamped site using Craft CMS. Stay tuned.
 
 ----
 
@@ -27,4 +27,4 @@ Clienturl: http://careerandcollege360.com
 
 ----
 
-Stack: 
+Stack: Middleman, Foundation, Sass

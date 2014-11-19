@@ -12,8 +12,12 @@ Tags:
 
 Text: Mr Postman is a place to get great cards for friends and family. It's unique in that it combines high-quality cards with social networking. There are several other great features but  I can't go into too much detail as it's still in early beta.
 
-From the early stages I was involved in the design and creation of the product. I worked with the founders in sketching out the basic workflows, and
+From the early stages I was involved in the design and creation of the product. I worked with the founders in sketching out the basic workflows, and ensuring that the user experience is top notch. I also dug into djagno when needed to help keep our schedule. Right now we are waiting on feedback from our user groups and hope to launch in 2015.
 
 ----
 
 Clienturl: http://mrpostman.co
+
+----
+
+Stack: Django, Postgres, Sass

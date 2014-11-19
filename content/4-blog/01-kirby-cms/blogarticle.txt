@@ -1,0 +1,10 @@
+Title: Kirby CMS
+
+----
+Date: 11/4/2014
+----
+
+Text: ## Kirby is amazing
+Just wanted to say that Kirby CMS v2 is awesome. Like really awesome. For simple sites that need a cms this is the answer. It does require some html/css/php knowledge to get going but the api is really simple the the docs are very nice to read.
+
+(link:http://jessicahische.is/ text: Jessica Hische) uses it too and she's pretty amazing so that's reason enough to use it.

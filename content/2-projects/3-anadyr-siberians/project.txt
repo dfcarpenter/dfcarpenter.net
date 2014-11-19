@@ -10,7 +10,7 @@ Tags:
 
 ----
 
-Text: Created a new site for dog musher Lisbet Norris. She ran the Iditarod for the first time last year and wanted an updated site for her fans, sponsors, and to show more pictures of her awesome dogs. As a fellow Alaskan I jumped at the chance.
+Text: Creating a new site for Alaskan dog musher Lisbet Norris. She ran the Iditarod for the first time last year and wanted an updated site for her fans, sponsors, and to show more pictures of her awesome dogs. As a fellow Alaskan I jumped at the chance. It's due to launch at the beginning of December.
 
 ----
 
@@ -18,4 +18,4 @@ Clienturl:
 
 ----
 
-Technologies: Wordpress, Sass
+Stack: Wordpress, Sass

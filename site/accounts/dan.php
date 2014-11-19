@@ -7,9 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - blog/polymer
   - about
-  - projects/cc360
+  - blog/kirby-cms
   - projects/cc360-app
-  - home
-  - contact
+  - projects/cc360
 token: 45c9ad2e8cf95d4813d2915d4ec57552c8e10b34
