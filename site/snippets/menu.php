@@ -7,7 +7,7 @@
 
       <?php if($p->hasVisibleChildren()): ?>
       <ul class="submenu">
-        <?php foreach($p->children()->visible() as $p): ?>
+        <?php foreach($p->children()->visible()->sortBy('year', 'desc')->limit(3) as $p): ?>
         <li>
           <a href="<?php echo $p->url() ?>"><?php echo html($p->title()) ?></a>
         </li>

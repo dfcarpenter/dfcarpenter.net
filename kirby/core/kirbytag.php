@@ -106,7 +106,7 @@ abstract class KirbytagAbstract {
     if(preg_match('!(http|https)\:\/\/!i', $url)) return false;
 
     // skip urls without extensions
-    if(!preg_match('!\.[a-z]+$!',$url)) return false;
+    if(!preg_match('!\.[a-z0-9]+$!i',$url)) return false;
 
     // try to get all files for the current page
     $files = $this->files();
@@ -119,7 +119,16 @@ abstract class KirbytagAbstract {
 
   }
 
-  public function attr($key, $default = null) {
+  /**
+   * Returns a specific attribute bey key or all attributes 
+   * by passing no key at all.
+   * 
+   * @param mixed $key
+   * @param mixed $default
+   * @return array
+   */
+  public function attr($key = null, $default = null) {
+    if(is_null($key)) return $this->attr;
     return isset($this->attr[$key]) ? $this->attr[$key] : $default;
   }
 

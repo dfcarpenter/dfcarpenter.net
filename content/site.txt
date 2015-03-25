@@ -10,15 +10,18 @@ Description: Awesome site for Daniel Carpenter.
 
 ----
 
-Keywords: developer, Laravel, Javascript
+Facebook: http://www.facebook.com/daniel.carpenter.52
 
 ----
 
-facebook: http://www.facebook.com/daniel.carpenter.52
+Github: http://github.com/dfcarpenter
 
 ----
 
-twitter: http://www.twitter.com/dfcarpenter
+Twitter: http://wwww.twitter.com/dfcarpenter
+----
+
+Keywords: developer,Laravel,Javascript
 
 ----
 

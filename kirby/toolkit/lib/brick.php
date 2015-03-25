@@ -155,7 +155,9 @@ class Brick {
   }
 
   public function html($html = null) {
-    if(is_null($html)) return $this->html;
+    if(is_null($html)) {
+      return $this->html = $this->isVoid() ? null : $this->html;
+    }
     $this->html = $html;
     return $this;
   }
@@ -170,6 +172,10 @@ class Brick {
     if(is_callable($html)) $html = $html();
     $this->html = $this->html . $html;
     return $this;
+  }
+
+  public function isVoid() {
+    return html::isVoid($this->tag());
   }
 
   public function toString() {

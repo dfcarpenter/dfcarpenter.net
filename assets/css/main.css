@@ -94,7 +94,7 @@ body {
   margin: 0 auto;
   font-size: 1.25em;
   line-height: 1.5em;
-  
+
   max-width: 50em;
   background: #fff;
   color: #33312e;
@@ -110,7 +110,7 @@ body {
 }
 .logo {
   display: block;
- 
+
 }
 
 
@@ -132,7 +132,7 @@ h2 {
   line-height: 1.25em;
   font-weight: 300;
   margin-bottom: .5em;
-  
+
 }
 h3 {
   font-size: 1.4em;
@@ -205,7 +205,7 @@ h1 a, h2 a, h3 a, h4 a {
 
 /* Project teaser
 -------------------------------------------------- */
-.teaser {
+/*.teaser {
   list-style: none;
 }
 .teaser li {
@@ -221,7 +221,7 @@ h1 a, h2 a, h3 a, h4 a {
   .teaser li:first-child {
     margin-left: 0;
   }
-}
+}*/
 
 
 /* Next/Prev nav

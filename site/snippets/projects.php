@@ -1,7 +1,7 @@
 <h2>Latest projects</h2>
 
 <ul class="teaser cf">
-  <?php foreach(page('projects')->children()->visible()->limit(3) as $project): ?>
+  <?php foreach(page('projects')->children()->visible()->sortBy('year', 'desc') as $project): ?>
   <li>
     <h3><a href="<?php echo $project->url() ?>"><?php echo html($project->title()) ?></a></h3>
    <!--  <p><?php echo excerpt($project->technologies(), 15) ?> <a href="<?php echo $project->url() ?>">read&nbsp;more&nbsp;→</a></p> -->

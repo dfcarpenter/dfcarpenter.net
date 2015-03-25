@@ -278,7 +278,7 @@ class R {
    * @param string $default Pass an optional URL to use as default referer if no referer is being found
    * @return string
    */
-  static public function referrer($default = nullg) {
+  static public function referrer($default = null) {
     return static::referer($default);
   }
 
@@ -322,8 +322,7 @@ class R {
    * @return string
    */
   static public function scheme() {
-    $https = isset($_SERVER['HTTPS']) ? $_SERVER['HTTPS'] : false;
-    return ($https and strtolower($https) != 'off') ? 'https' : 'http';
+    return url::scheme();
   }
 
   /**

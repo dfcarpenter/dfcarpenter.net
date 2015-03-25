@@ -29,9 +29,9 @@ class Page extends PageAbstract {
    *
    * @return string
    */
-  public function cid($lang = null) {
+  public function cacheId($lang = null) {
     if(is_null($lang)) $lang = $this->site->language->code;
-    return $lang . '.' . parent::cid();
+    return $lang . '.' . parent::cacheId();
   }
 
   /**
@@ -118,7 +118,7 @@ class Page extends PageAbstract {
     if($this->isHomePage()) {
       return $this->site->url($lang);
     } else if($this->parent->isHomePage()) {
-      return $this->site->url($lang) . '/' . $this->parent->uid() . '/' . $this->slug($lang);
+      return $this->site->url($lang) . '/' . $this->parent->slug($lang) . '/' . $this->slug($lang);
     } else {
       return $this->parent->url($lang) . '/' . $this->slug($lang);
     }
