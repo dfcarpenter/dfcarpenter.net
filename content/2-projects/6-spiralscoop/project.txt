@@ -6,7 +6,7 @@ Year: 2015
 
 ----
 
-Clienturl: http://spiralscoop.com
+Clienturl: http://www.spiralscoop.com
 
 ----
 
@@ -14,7 +14,7 @@ Stack: Laravel, jQuery, Stylus, AWS
 
 ----
 
-Text: 
+Text: Spiralscoop is a very early beta/test concept centered around making managing brand promotion easier on instagram. My client and several other interested marketing professionals found managing brands and communities on instagram a tedious task (which granted, instagram is not built for) and wanted an interface for interacting with their users submissions easier as well as getting richer analytics.
 
 ----
 

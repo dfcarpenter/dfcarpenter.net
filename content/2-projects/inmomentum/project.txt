@@ -2,19 +2,19 @@ Title: Inmomentum
 
 ----
 
-Year: 
+Year: 2015
 
 ----
 
-Clienturl: 
+Clienturl: http://in.dfcarpenter.net
 
 ----
 
-Stack: 
+Stack: Craft CMS, Stylus, jQuery, Velocity JS
 
 ----
 
-Text: 
+Text: Almost ready to launch site for a business consultant, Lynne Waldera. It was a fun project because I got to try out a new CMS, Craft.
 
 ----
 

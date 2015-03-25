@@ -14,7 +14,7 @@ Stack: Squarespace, YUI, Stylus
 
 ----
 
-Text: 
+Text: Charliecart is a promotional site for a revolutionary product which aims to get cooking back into schools. I worked with Celery Design in Berkeley (who also designed the physical product) to get the site up. The cart is in beta testing in several school districts and the nationwide launch is later this year. We are working on a fuller Wordpress powered site with ecommerce functionality for launch.
 
 ----
 
